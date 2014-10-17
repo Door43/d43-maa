@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[maa:home|Door43 (maa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-maa|d43-maa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-maa/archive/master.zip|d43-maa.zip]]
+
+**Recent Changes**
+{{changes>ns = maa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/maa|Ethnologue data]]
+
